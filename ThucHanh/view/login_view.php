@@ -12,7 +12,7 @@
 <div class="vertical-menu">
   <a href="#" class="active">Menu</a>
   <a href="#">Trang chủ</a>
-  <a href="#">Đăng kí</a>
+  <a href="#">Đăng kí HT</a>
 </div>
 </td>
 <td class="custom-td">
